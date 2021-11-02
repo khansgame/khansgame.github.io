@@ -1,1 +1,3 @@
-# khansgame.github.io
+# KHANSGAME.COM
+
+Repo for KHANS GAME website
